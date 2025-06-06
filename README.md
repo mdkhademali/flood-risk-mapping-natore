@@ -1,4 +1,4 @@
-## Flood Risk Mapping of Natore District, Bangladesh using Google Earth Engine
+## Flood Risk Mapping of Natore District, Bangladesh
 
 This repository contains Google Earth Engine (GEE) JavaScript code to generate a **Flood Risk Map** for Natore District, Bangladesh. The map uses Sentinel-1 SAR data for water detection, elevation data, and Sentinel-2 derived vegetation indices to calculate flood risk zones, visualized with green, yellow, and red colors representing low, medium, and high risk areas respectively.
 
