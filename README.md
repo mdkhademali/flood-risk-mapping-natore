@@ -21,6 +21,8 @@ This repository contains Google Earth Engine (GEE) JavaScript code to generate a
 - Each factor is weighted and combined into a risk index.
 - The index is normalized and split into three risk categories visualized with green, yellow, and red colors.
 
+## Map Image
+
 ![Map](flood-risk-natore-image.png)
 
 © mdkhademali
